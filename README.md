@@ -21,7 +21,9 @@ Costa Rica
 5. `C` [Image Mean Variance Calculator](./5_ImageMeanVarianceCalculator/): This project is designed to calculate the mean and variance of images. It's useful for image processing tasks where understanding the statistical properties of the image dataset is important.
 6. `C++` [BMP_RGB_YUV400_Toolkit](./6_BMP_RGB_YUV400_Toolkit/): This program is designed to perform various image processing operations in C. It includes functions for reading parameters from a text file, reading an RGB image from a BMP file, converting an RGB image to an intensity image, drawing a line segment and a circle on the intensity image, and saving the intensity image in a YUV400 file.
 
+<!-- START BADGE -->
 <div align="center">
-  <h3 style="color: #4CAF50;">Total Visitors</h3>
-  <img src="https://profile-counter.glitch.me/brown9804/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
 </div>
+<!-- END BADGE -->
