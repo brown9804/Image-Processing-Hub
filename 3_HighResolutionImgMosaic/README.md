@@ -1,7 +1,10 @@
 # High Resolution Image Mosaic in Python
+
 June 2019
 
-You will need to use Python, so it is recommended to update it or download it.
+----------------
+
+> You will need to use Python, so it is recommended to update it or download it.
 
 This program creates a mosaic of an input image with images from a directory. If you want to download images of puppies, go to the following link:
 https://www.kaggle.com/jessicali9530/stanford-dogs-dataset
@@ -35,3 +38,10 @@ To run the program, you should execute the following command:
 ```python main.py imagen.jpg directory```
 
 Where imagen.jpg is the image to convert (if the image has another extension, put it, for example, if it is png put imagen.png) and directory is the image directory with which the mosaic will be created.
+
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->

@@ -2,8 +2,6 @@
 
 Costa Rica
 
-Belinda Brown, belindabrownr04@gmail.com
-
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
@@ -12,18 +10,15 @@ Belinda Brown, belindabrownr04@gmail.com
 
 ---------------
 
-In order to run the program successfully, the following must be contained on your machine:
+> In order to run the program successfully, the following must be contained on your machine:
 
-----------
-OpenCV 4.1.2
+- OpenCV 4.1.2
+- Python 3.7.7
+- Numpy 1.15.2
 
-Python 3.7.7
+> [!NOTE]
+> The images used for the analysis are in .jpg format
 
-Numpy 1.15.2
-
-The images used for the analysis are in .jpg format
-
-----------
 
 It allows to analyze the different present characteristics of each image. Content:
 
@@ -77,3 +72,9 @@ In order for the Python interpreter to run the algorithm. You must go to the ter
 <Inside_programs_general_folder>$ make
 ~~~~~
 
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->
